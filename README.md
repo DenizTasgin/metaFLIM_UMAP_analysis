@@ -3,6 +3,7 @@ NADPH-FLIM data of segmented myeloid cells. R pipeline for UMAP analysis using t
 
 # Example: Excel data set template
 obj-free-FAO-anaerob-TCA-aerob-oxburst-act-CellID-condition-dataset-timepoint-pixels
+
 4-0-0-0.000133422-0.083522348-0.900733823-0.015610407-0.692501-4-low_glycoylsis-low_glycoylsis_l_media_FOV1- 15_Dec-512
 
 
